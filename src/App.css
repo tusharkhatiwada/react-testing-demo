@@ -1,0 +1,69 @@
+.App {
+  height: 100vh;
+}
+.login {
+  background: #004d6f;
+}
+.full-height {
+  height: 100vh;
+}
+p.title {
+  font-size: 2rem;
+  margin: 0;
+  font-weight: 200;
+  line-height: 1;
+}
+.dashed-input {
+  border-style: dashed;
+  border-color: #004d6f;
+}
+.login-form-button {
+  color: #000;
+  background-color: #dedede;
+  border-color: #dedede;
+  box-shadow: 2px 2px 4px #696868ad;
+}
+.logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
+.ant-menu-dark .ant-menu-inline.ant-menu-sub {
+  background: #004d6f;
+}
+.open-jobs .ant-card-body {
+  padding: 10px;
+}
+.open-jobs .ant-card-body h2 {
+  margin-bottom: 0;
+}
+.upload-job-modal .ant-modal-header {
+  background-color: #004d6f;
+}
+.upload-job-modal .ant-modal-header .ant-modal-title {
+  color: #ffffff;
+}
+.upload-job-modal .ant-modal-close-icon svg {
+  color: #ffffff;
+}
+.upload-job-modal .ant-form-item {
+  margin-bottom: 10px;
+}
+.upload-job-modal .ant-form-item-label {
+  padding-bottom: 0px;
+}
+.ant-menu-item.ant-menu-item-only-child .anticon,
+.ant-menu-submenu-title.ant-menu-item-only-child .anticon {
+  margin-right: 10px;
+}
+.logout-menu {
+  bottom: 0;
+  position: absolute !important;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
