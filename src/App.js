@@ -10,9 +10,11 @@ axios.defaults.headers.post["Content-Type"] =
 
 function App() {
   return (
+    <>
     <div className='App'>
       <AppRouter></AppRouter>
     </div>
+    </>
   );
 }
 
